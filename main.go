@@ -10,7 +10,7 @@ import (
 	"regexp"
 	"sync/atomic"
 
-	"github.com/joebanar/chirpy/database"
+	"github.com/joebanar/chirpy/internal/database"
 	"github.com/joho/godotenv"
 	_ "github.com/lib/pq"
 )
